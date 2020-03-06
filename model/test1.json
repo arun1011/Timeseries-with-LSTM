@@ -1,0 +1,1 @@
+{"forecast_val": "Sales", "holidayfile": 1, "other_regressors": 1, "regressor_fields": ["Promo"], "holidayfields": ["Stateholiday", "Schoolholiday"], "model": "nn", "filename": "test1_Storedata.csv", "infreq": 2}
